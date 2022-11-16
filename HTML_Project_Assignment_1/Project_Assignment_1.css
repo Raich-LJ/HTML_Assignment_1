@@ -1,0 +1,10 @@
+.body{
+   background-color: rgba(160, 93, 223, 0.781);
+}
+
+.form_group{
+    margin: auto;
+    border: 15% solid white;
+    font-size: 17px;
+    font: italic;
+}
